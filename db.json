@@ -6,7 +6,7 @@
     "data1":"AVAYA"
   },
   
-  "api":{
+  "api/extension":{
     "extension":{
       "newtest":"5555"
     }
